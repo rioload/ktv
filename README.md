@@ -1,5 +1,7 @@
 # 🎤 KTV AI Studio - 人工智慧伴唱帶生成器
 
+![KTV AI Studio 程式主畫面](screenshot.png)
+
 基於 Python 與 Tkinter 打造的本地端全能影音處理 GUI 工具。深度整合 `yt-dlp`、`FFmpeg` 與頂級 AI 語音分離模型 (UVR/Demucs)，為您提供自動化的 YouTube 批次下載、AI 人聲分離與 KTV 伴唱帶生成體驗。
 
 ## ✨ 四大強大功能
